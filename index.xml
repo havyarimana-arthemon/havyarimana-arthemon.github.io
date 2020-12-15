@@ -33,11 +33,21 @@
     </item>
     
     <item>
-      <title>s</title>
+      <title>ссылки на научные и библиометрические ресурсы:</title>
       <link>https://havyarimana-arthemon.github.io/post/link/</link>
       <pubDate>Tue, 15 Dec 2020 21:32:11 +0300</pubDate>
       <guid>https://havyarimana-arthemon.github.io/post/link/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elibrary.ru/defaultx.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Sschola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://orcid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mendeley.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mendeley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ResearchGate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.academia.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;academia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
