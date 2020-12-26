@@ -1,91 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://havyarimana-arthemon.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://havyarimana-arthemon.github.io/ru/sitemap.xml</loc>
+    
+      <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/post/</loc>
-    <lastmod>2020-12-15T21:32:11+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/post/link/</loc>
-    <lastmod>2020-12-15T21:32:11+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/authors/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/author/havyarimana-arthemon/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/author/robert-ford/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/project/example/</loc>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

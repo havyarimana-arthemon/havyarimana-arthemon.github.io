@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>https://havyarimana-arthemon.github.io/ru/project/</link>
+      <atom:link href="https://havyarimana-arthemon.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator>
+    <image>
+      <url>https://havyarimana-arthemon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://havyarimana-arthemon.github.io/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>My project</title>
+      <link>https://havyarimana-arthemon.github.io/ru/project/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://havyarimana-arthemon.github.io/ru/project/example/</guid>
+      <description>&lt;p&gt;after stadies, open business site in my country&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
