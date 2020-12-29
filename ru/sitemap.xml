@@ -23,21 +23,6 @@
   </url>
   
   <url>
-    <loc>https://havyarimana-arthemon.github.io/ru/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://havyarimana-arthemon.github.io/talk/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://havyarimana-arthemon.github.io/ru/talk/example/"
-                />
-  </url>
-  
-  <url>
     <loc>https://havyarimana-arthemon.github.io/ru/project/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
@@ -69,6 +54,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://havyarimana-arthemon.github.io/ru/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://havyarimana-arthemon.github.io/ru/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://havyarimana-arthemon.github.io/talk/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://havyarimana-arthemon.github.io/ru/talk/example/"
                 />
   </url>
   
@@ -270,20 +270,6 @@
   </url>
   
   <url>
-    <loc>https://havyarimana-arthemon.github.io/ru/project/example/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://havyarimana-arthemon.github.io/project/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://havyarimana-arthemon.github.io/ru/project/example/"
-                />
-  </url>
-  
-  <url>
     <loc>https://havyarimana-arthemon.github.io/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -294,6 +280,20 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://havyarimana-arthemon.github.io/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://havyarimana-arthemon.github.io/ru/project/example/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://havyarimana-arthemon.github.io/project/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://havyarimana-arthemon.github.io/ru/project/example/"
                 />
   </url>
   
