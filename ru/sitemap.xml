@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://havyarimana-arthemon.github.io/ru/project/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://havyarimana-arthemon.github.io/ru/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
@@ -30,6 +35,26 @@
                 hreflang="ru"
                 href="https://havyarimana-arthemon.github.io/ru/talk/example/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://havyarimana-arthemon.github.io/ru/project/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://havyarimana-arthemon.github.io/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://havyarimana-arthemon.github.io/ru/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://havyarimana-arthemon.github.io/ru/project/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -50,11 +75,31 @@
   <url>
     <loc>https://havyarimana-arthemon.github.io/ru/post/</loc>
     <lastmod>2020-12-15T21:32:11+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://havyarimana-arthemon.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://havyarimana-arthemon.github.io/ru/post/"
+                />
   </url>
   
   <url>
     <loc>https://havyarimana-arthemon.github.io/ru/post/link/</loc>
     <lastmod>2020-12-15T21:32:11+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://havyarimana-arthemon.github.io/post/link/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://havyarimana-arthemon.github.io/ru/post/link/"
+                />
   </url>
   
   <url>
@@ -133,21 +178,6 @@
   </url>
   
   <url>
-    <loc>https://havyarimana-arthemon.github.io/ru/author/havyarimana-arthemon/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://havyarimana-arthemon.github.io/author/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://havyarimana-arthemon.github.io/ru/author/havyarimana-arthemon/"
-                />
-  </url>
-  
-  <url>
     <loc>https://havyarimana-arthemon.github.io/ru/publication_types/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -193,6 +223,21 @@
   </url>
   
   <url>
+    <loc>https://havyarimana-arthemon.github.io/ru/author/%D1%85%D0%B0%D0%B2%D1%8C%D1%8F%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%B0-%D0%B0%D1%80%D1%82%D0%B5%D0%BC%D0%BE%D0%BD/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://havyarimana-arthemon.github.io/author/havyarimana-arthemon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://havyarimana-arthemon.github.io/ru/author/%D1%85%D0%B0%D0%B2%D1%8C%D1%8F%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%B0-%D0%B0%D1%80%D1%82%D0%B5%D0%BC%D0%BE%D0%BD/"
+                />
+  </url>
+  
+  <url>
     <loc>https://havyarimana-arthemon.github.io/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -208,6 +253,20 @@
   
   <url>
     <loc>https://havyarimana-arthemon.github.io/ru/post/authors/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://havyarimana-arthemon.github.io/post/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://havyarimana-arthemon.github.io/ru/post/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://havyarimana-arthemon.github.io/ru/project/authors/admin/</loc>
   </url>
   
   <url>
@@ -221,20 +280,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://havyarimana-arthemon.github.io/ru/project/example/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://havyarimana-arthemon.github.io/ru/project/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://havyarimana-arthemon.github.io/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://havyarimana-arthemon.github.io/ru/project/"
                 />
   </url>
   
